@@ -1,0 +1,22 @@
+{
+  "name": "fiction",
+  "version": "0.0.1",
+  "description": "Functional Explorations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wartman/fiction.git"
+  },
+  "author": "wartman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wartman/fiction/issues"
+  },
+  "homepage": "https://github.com/wartman/fiction",
+  "devDependencies": {
+    "node-babel": "^0.1.2"
+  }
+}
